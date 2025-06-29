@@ -1,4 +1,6 @@
 # 🛍️ TechShop – Kubernetes Online Store with Amazon Q & MCP
+![image](https://github.com/user-attachments/assets/fc9a0fe3-2c7f-467d-a75a-977261b1634a)
+
 
 A fully functional e-commerce website deployed on Kubernetes, showcasing the power of **Amazon Q** with **Model Context Protocol (MCP)** for streamlined Kubernetes development.
 
